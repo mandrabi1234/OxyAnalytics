@@ -4,7 +4,7 @@ Performance evaluation web app designed for the Occidental College Men's Soccer 
 *This documentation is for a Windows system; adjust accordingly*
 
 Oxy Analytics Machine Learning Code (Prediction Model):
-1.	Clone GitHub repo and open xG Model folder in development environment that supports Python (e.g. VSCode, PyCharm, IntelliJ, etc.)
+1.	Clone GitHub repo and open ```xG Model``` folder in development environment that supports Python (e.g. VSCode, PyCharm, IntelliJ, etc.)
 
 2.	Python Module Installation (via Command Prompt):
   - Numpy (scientific computing): ```pip install numpy```
@@ -25,7 +25,7 @@ Oxy Analytics Machine Learning Code (Prediction Model):
 
 
 Oxy Analytics Web Development Code (Flask Web App):
-1.	Clone GitHub repo and open Flask App folder in development environment
+1.	Clone GitHub repo and open ```Flask App``` folder in development environment
 
 2.	Module/Library Installation:
   -	Flask (Python web framework): ```pip install Flask```
