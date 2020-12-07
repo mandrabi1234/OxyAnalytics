@@ -31,6 +31,7 @@ Oxy Analytics Web Development Code (Flask Web App):
   -	Flask (Python web framework): ```pip install Flask```
   -	Pandas (if not already installed): ```pip install pandas```
   -	Pygsheets (if not already installed): ```pip install pygsheets```
+    - My Google credentials will not be included in the repo, so follow this step-by-step guide for authorizing your own pygsheets: https://pygsheets.readthedocs.io/en/latest/authorization.html
   -	Gunicorn (Python WSGI HTTP Server): ```pip install gunicorn```
 
 3.	Running the web app (locally):
