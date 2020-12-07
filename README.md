@@ -21,7 +21,7 @@ Oxy Analytics Machine Learning Code (Prediction Model):
   - If updating existing Google Spreadsheet with prediction results: establish connection to specific spreadsheet via pygsheets. 
   - If operating locally: include additional code to export output as .csv file for future use, or simply execute program without use of pygsheets. 
   - Run ```dataMain.py``` to execute MoBot xG prediction model. 
-  - To create data visualizations: input spreadsheet data into ```dataMap.py``` and execute. 
+  - To create data visualizations: input spreadsheet data into ```dataViz.py``` and execute. 
 
 
 Oxy Analytics Web Development Code (Flask Web App):
