@@ -1,7 +1,7 @@
 # OxyAnalytics
 Performance evaluation web app designed for the Occidental College Men's Soccer Team
 
-*This documentation is for a Windows system; adjust accordingly*
+```This documentation is for a Windows system; adjust accordingly```
 
 Oxy Analytics Machine Learning Code (Prediction Model):
 1.	Clone GitHub repo and open ```xG Model``` folder in development environment that supports Python (e.g. VSCode, PyCharm, IntelliJ, etc.)
