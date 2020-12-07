@@ -1,5 +1,5 @@
 # OxyAnalytics
-Performance evaluation web app designed for the Occidental College Men's Soccer Team
+An expected results performance evaluation web app designed for the Occidental College Men's Soccer Team
 
 ```This documentation is for a Windows system; adjust accordingly```
 
