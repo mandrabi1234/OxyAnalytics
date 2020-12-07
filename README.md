@@ -34,7 +34,7 @@ Oxy Analytics Web Development Code (Flask Web App):
     - My Google credentials will not be included in the repo, so follow this step-by-step guide for authorizing your own pygsheets: https://pygsheets.readthedocs.io/en/latest/authorization.html
   -	Gunicorn (Python WSGI HTTP Server): ```pip install gunicorn```
 
-3.	Running the web app (locally):
+3.	Running Web App Locally:
   -	Alter HTML/CSS/JavaScript as desired (or leave it alone)
   -	Type ```app.py``` on the command line and click Enter.
   - Example:
@@ -50,7 +50,7 @@ Oxy Analytics Web Development Code (Flask Web App):
      * Debugger PIN: xxx-xxx-xxx
      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
     ```
-4.	Deploy Web App via Heroku (refer to links below):
+4.	Deploying Web App via Heroku (refer to links below):
   -	https://www.geeksforgeeks.org/deploy-python-flask-app-on-heroku/
   -	https://stackabuse.com/deploying-a-flask-application-to-heroku/
 
