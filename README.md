@@ -18,6 +18,7 @@ Oxy Analytics Machine Learning Code (Prediction Model):
 
 3.	Code Execution:
   - Read in desired test and training data sets via Google Spreadsheet or local .csv file.
+    - Download project training set ```events.csv``` from https://www.kaggle.com/gabrielmanfredi/expected-goals-player-analysis?select=events.csv
   - If updating existing Google Spreadsheet with prediction results: establish connection to specific spreadsheet via pygsheets. 
   - If operating locally: include additional code to export output as .csv file for future use, or simply execute program without use of pygsheets. 
   - Run ```dataMain.py``` to execute MoBot xG prediction model. 
